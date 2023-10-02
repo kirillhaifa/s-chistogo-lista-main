@@ -3,10 +3,10 @@
 }
 
 body {
+  margin: 0;
   background-color: #eee;
   font-family: Inter, Arial, sans-serif;
   width: 360px;
-  margin: auto;
 }
 
 h1,
