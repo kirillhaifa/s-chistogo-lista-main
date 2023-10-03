@@ -63,13 +63,7 @@ blockquote {
   border-bottom: 1px solid white;
 }
 
-.cover {
-  background-image: url(../images/cover.svg);
-  background-repeat: no-repeat;
-  background-position: 20px 30px;
-  background-size: 95%;
 
-}
 
 .cover__title {
   margin-left: 20px;
