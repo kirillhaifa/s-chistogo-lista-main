@@ -63,7 +63,13 @@ blockquote {
   border-bottom: 1px solid white;
 }
 
+.cover {
+  background-image: url(../images/cover.svg);
+  background-repeat: no-repeat;
+  background-position: 20px 30px;
+  background-size: 95%;
 
+}
 
 .cover__title {
   margin-left: 20px;
@@ -79,14 +85,15 @@ blockquote {
 
 .text-center {
   text-align: center;
-  line-height: 65%;
+  margin-top: -24px;
+  margin-bottom: -20px;
   margin-right: 21px;
 }
 
 .text-right {
   text-align: right;
   margin-right: 24px;
-  line-height: 135%;
+  
 }
 
 .intro {
