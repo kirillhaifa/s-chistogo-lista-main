@@ -66,9 +66,13 @@ blockquote {
 .cover {
   background-image: url(../images/cover.svg);
   background-repeat: no-repeat;
-  background-position: 100% 80%;
-  background-size: 94%;
-  padding-left: 21px;
+  background-position: 20px 30px;
+  background-size: 95%;
+
+}
+
+.cover__title {
+  margin-left: 20px;
 }
 
 .accent-span {
